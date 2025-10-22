@@ -11,7 +11,7 @@
 
 ### 💼 About Me
 - 🎓 Computer Science graduate | Passion for Web Dev, SaaS & Mobile App  
-- 💼 Real Estate Consultant @ Century 21 By Nunes (Lisbon/Odivelas)  
+- 💼 Real Estate Consultant @ Century 21
 - 🧑‍💻 Building personal projects and learning real-world applications 
 - 🌱 Lifelong learner: AI, trading, entrepreneurship, and personal development  
 - ⚡ Motto: *“Discipline builds freedom. Focus turns ideas into reality.”*
